@@ -588,7 +588,7 @@ MonoBehaviour:
   _filterMode: 0
   _texture: {fileID: 895814819}
   _material: {fileID: 2100000, guid: af57c0add913c4539a3b22b458245c6c, type: 2}
-  _brushSize: 8
+  _brushSize: 50
   _color: {r: 0, g: 0, b: 0, a: 0}
   _camera: {fileID: 519420031}
   _collider: {fileID: 1515102472}
